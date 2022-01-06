@@ -1,0 +1,9 @@
+# Git credentials
+GIT_NAME="Winda Tersakiti"
+GIT_EMAIL="pedih30@gmail.com"
+REPO_URL="https://github.com/windatersakiti/autocommita"
+BRANCH_NAME="main"
+
+# DO NOT EDIT if you don't know
+DATA_PATH="./data/date.json"
+LOAD_COMMIT=100
